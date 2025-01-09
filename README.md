@@ -19,50 +19,23 @@
 
 
 
-<h3 align="left">🤖 Tecnologias da minha rotina:</h3>
-<p align="left">
-    <!-- Banco de Dados -->
-    <a href="https://www.mysql.com/" target="blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org/" target="blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="blank">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-    </a>
-    <a href="https://www.sqlite.org/index.html" target="blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>
-    </a>
-    <!-- Power BI -->
-    <a href="https://powerbi.microsoft.com/" target="blank">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
-    </a>
-    <!-- Excel/VBA -->
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/>
-    </a>
-    <!-- Linguagem R -->
-    <a href="https://www.r-project.org/" target="blank">
-        <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
-    </a>
-    <!-- Python -->
-    <a href="https://www.python.org/" target="blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
-    </a>
-    <!-- API -->
-    <a href="https://fastapi.tiangolo.com/" target="blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-    </a>
-    <!-- Git/GitHub -->
-    <a href="https://git-scm.com/" target="blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/" target="blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
-    </a>
-    <!-- Teste A/B -->
-    <a href="https://abtestguide.com/" target="blank">
-        <img src="https://www.vectorlogo.zone/logos/adobe/adobe-icon.svg" alt="teste A/B" width="40" height="40"/>
-    </a>
-</p>
+🤖 Tecnologias da minha rotina:
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/microsoft_sql_server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-03A9F4?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel/VBA](https://img.shields.io/badge/Excel/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Data Studio (Looker)](https://img.shields.io/badge/Data%20Studio%20(Looker)-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-5A29E4?style=for-the-badge&logo=webflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
